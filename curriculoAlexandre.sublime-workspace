@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"f",
+				"fundo1"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"it",
+				"italico"
+			],
+			[
+				"n",
+				"negrito2"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"p",
+				"principal"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projetoWeb/css_3/external/modelo de caixa/modelo-caixa.html",
+		"/D/projetoWeb/css_3/external/modelo de caixa/estilo.css",
+		"/D/cursoES6/comandos.txt",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/anna bella/contato.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/anna bella/campanha-publicitaria.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/anna bella/css/estilo.css",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/anna bella/biografia.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/anna bella/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/external/external style/external_style.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/externo/external_style.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/externo/css/pagina2.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/externo/css/estilo.css",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/cor e imagem de fundo/cor-imagem-fundo.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/estilos de textos/estilos-textos.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/curriculo/curriculoAlexandre.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/curriculo/css/estilo.css",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/tamanho de texto/tamanho_texto.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/fontes e cores/fontes_cores.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/bordas/bordas.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/div e span/div_span.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/classes_ids/classes_ids.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/internal/internal_style.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/inLine/inline_style.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/css_3/classes_ids/classes_ids.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/unes/contato.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/unes/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/html_5/formulários/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/tabelas/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/links/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/links/contatos.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/imagens/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/meuSite/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/tags/tags.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/listas/listas.html",
+		"/C/Users/alsst/OneDrive/Documentos/projetoWeb/listaNaoOrdenada/listas.html",
+		"/C/Users/alsst/OneDrive/Documentos/ProjetoWeb/tags/index.html",
+		"/C/Users/alsst/OneDrive/Documentos/ProjetoWeb/universidadeUnesc/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curriculoAlexandre.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

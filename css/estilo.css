@@ -1,0 +1,255 @@
+body{
+	font-family: sans-serif;
+	background-color: #e5e5e5;
+}
+h1{
+	background-color: #80d4ff;
+	border-radius: 5px;
+	height: 50px;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+h2{
+	color: #80d4ff;
+	background-color: #808080;
+	border-radius: 5px;
+	height: 40px;
+	padding-top: 13px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+hr{
+	width: 97%;
+}
+h4{
+	font-weight: bold;
+	margin-left: 8px;
+}
+img{
+	width: auto;
+	height: auto;
+}
+p{
+	margin-bottom: 0px;
+}
+a:link{
+	text-decoration:none;
+	color:black;
+	font-weight: bold;
+}
+a:visited{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	text-decoration:none;
+	color:#0404B4;
+}
+a:active{
+	text-decoration:none;
+	color:#0404B4;
+}
+#clear{
+	clear: both;
+}
+#melhorando{
+	margin: 0% 25%;
+	position: relative;
+	padding top: 0px;
+}
+.mesclar{
+	float: left;
+	margin: 5px 0px 5px 10px;
+}
+.icon img{
+	float: left;
+	max-width: 25px;
+	max-height: 25px;
+	width: auto;
+	height: auto;
+	padding-left: 3px;
+	margin: 2px 0px 8px 0px;
+	list-style-type: none;
+}
+.texto{
+	margin-bottom: 18px;
+	padding-left: 10px;
+	
+}
+.esquerdo{
+	float: left;
+	width: 37%;
+}
+.dados{
+	padding: 0px 5px 5px 5px;
+	background-color: #fff;
+}
+.coluna {
+	float: left;
+	width: 62.9%;
+	margin-left: 0.5px;
+}
+.container {
+	width: 160px;
+	margin-right: 20px;
+	float: left;
+	padding-left: 8px;
+}
+.skills{
+	height: 25px;
+	min-width: 80px;
+	margin: 0 auto 10px;
+	line-height: 25px;
+	font-size: 14px;
+	color: #fff;
+	padding: 0 0 0 10px;
+	position: relative;
+}
+.skills:before{
+	content: '';
+	width: 100%;
+	position: absolute;
+	left: 0;
+	height: 25px;
+	top: 0;
+	z-index: -2;
+	background: #C0C0C0;
+	border-radius: 5px;
+}
+.skills:after{
+	content: '';
+	background: #4CAF50;
+	height: 25px;
+	transition: 0.8s;
+	display: block;
+	width: 100%;
+	animation: animate 1 4s;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	border-radius: 5px;
+}
+.html:after{
+	max-width: 75%;
+}
+.css:after{
+	max-width: 60%;
+}
+.xml:after{
+	max-width: 85%;
+}
+.sqlite:after{
+	max-width: 58%;
+}
+.admin:after{
+	max-width: 40%;
+}
+.mysql:after{
+	max-width: 80%;
+}
+.postgre:after{
+	max-width: 25%;
+}
+.firebase:after{
+	max-width: 70%;
+}
+.js:after{
+	max-width: 5%;
+}
+.java:after{
+	max-width: 90%;
+}
+.c:after{
+	max-width: 75%;
+}
+.android:after{
+	max-width: 95%;
+}
+.php:after{
+	max-width: 55%;
+}
+.net:after{
+	max-width: 40%;
+}
+.py:after{
+	max-width: 10%;
+}
+.scrum:after{
+	max-width: 79%;
+}
+.uml:after{
+	max-width: 67%;
+}
+@keyframes animate{
+	0%{
+		width: 0;
+	}
+	100%{
+		width: 100%;
+	}
+}
+.collapsible {
+	color: #80d4ff;
+	background-color: #808080;
+	border-radius: 5px;
+	height: 55px;
+	text-align: center;
+	width: 100%;
+ 	border: none;
+	outline: none;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+.active, .collapsible:hover {
+	background-color: #555;
+}
+.content {
+	padding: 0 18px;
+	display: none;
+	overflow: hidden;
+	margin-bottom: 18px;
+	margin-top: 0px;
+}
+@media screen and (max-width: 900px) {
+	.coluna {
+    	width: 63%;
+  }
+}
+@media screen and (max-width: 600px) {
+	.coluna {
+    	width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+	.esquerdo {
+    	width: 37%;
+  }
+}
+@media screen and (max-width: 600px) {
+	.esquerdo {
+    	width: 100%;
+  }
+}
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	border-radius: 4px;
+}
+.button2:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
